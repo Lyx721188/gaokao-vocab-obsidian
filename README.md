@@ -57,4 +57,6 @@ GROUP BY true
 
 ## 许可证 / License
 
-本仓库内容以 [**CC BY 4.0（署名 4.0 国际）**](./LICENSE) 协议开源。分发或改编时请署名并附上本仓库及 [Jimmy-xuzimo/gaokao-vocab](https://github.com/Jimmy-xuzimo/gaokao-vocab) 的链接。
+本仓库以 [**MIT**](./LICENSE) 协议开源：可自由使用、复制、修改、分发（含商业用途），**无需署名**——唯一要求是分发时保留 LICENSE 文件中的版权与许可声明（MIT 标准条款，不要求在网页或文档中额外标注出处）。
+
+上游 [Jimmy-xuzimo/gaokao-vocab](https://github.com/Jimmy-xuzimo/gaokao-vocab) 的 README 标注为 MIT 协议（仓库未附 LICENSE 文件），按其声明的协议处理，并在 LICENSE 中保留了其版权声明。
